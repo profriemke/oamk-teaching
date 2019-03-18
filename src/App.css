@@ -1,0 +1,45 @@
+
+.App {
+  text-align: left;
+  padding-left: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+}
+
+table {
+  border-collapse: collapse;
+  min-width: 30vw;
+  max-width: 80vw;
+}
+tr {
+  min-height: 20px;
+}
+tr:nth-child(odd) {
+   background-color: lightgrey;
+}
+th{
+  background-color: black;
+  color:white;
+}
+#addForm {
+  max-width: 500px;
+}  
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+
+input[type=button], input[type=submit], input[type=reset], button {
+  background-color: lightcoral;
+  border: none;
+  color: white;
+  padding: 16px 14px;
+  text-decoration: none;
+  margin: 10px 2px;
+  cursor: pointer;
+}
