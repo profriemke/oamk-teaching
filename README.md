@@ -1,6 +1,7 @@
 # Oamk International Week Teaching
 
 This is the code of the application of my OAMK ITSEW2019 International Week teaching. Happy playing with the code!
+If you have questions or find any error, please feel free to contact me.
 
 Thorsten Riemke
 
