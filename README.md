@@ -1,3 +1,11 @@
+# Oamk International Week Teaching
+
+This is the code of the application of my OAMK ITSEW2019 International Week teaching. Happy playing with the code!
+
+Thorsten Riemke
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
